@@ -1,3 +1,5 @@
+package sort;
+
 import java.util.*;
 
 //Problem : Insertion Sort
